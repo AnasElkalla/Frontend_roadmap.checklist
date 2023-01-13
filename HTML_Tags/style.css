@@ -12,6 +12,9 @@ main .arrange {
     display: none;
   }
 }
+main .arrange{
+  align-items:center
+}
 main .arrange .inOut {
   display: flex;
   justify-content: center;
