@@ -505,7 +505,7 @@ main .btn span {
   width: 25px;
   height: 25px;
   font-size: 1.5rem;
-  top:25px;
+  top:-25px;
   left:5px;
   color: var(--blue);
 }
