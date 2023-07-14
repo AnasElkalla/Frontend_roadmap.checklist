@@ -36,6 +36,7 @@ main .arrange .btn {
   margin: 10px;
   position: relative;
   cursor: none;
+  border-radius:4px;
 }
 main .arrange .btn span {
   position: absolute;
