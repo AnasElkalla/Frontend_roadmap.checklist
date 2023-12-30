@@ -505,8 +505,8 @@ main .btn span {
   width: 25px;
   height: 25px;
   font-size: 1.5rem;
-  left:5px;
-  top:-5px;
+  left:3px;
+  top:-12px;
   color: var(--blue);
 }
 .container div .links a {
